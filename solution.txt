@@ -1,0 +1,1 @@
+git restore filename" undoes changes to a file and restores it to the previous version, while "git restore --staged filename" unstages changes made to a file in the current commit and restores it to the version in the previous commit.
